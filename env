@@ -1,9 +1,1 @@
-#BETTER_AUTH_SECRET= # Generate SECRET KEY > [https://www.better-auth.com/docs/installation] OR [https://generate-secret.vercel.app/32]
-BETTER_AUTH_SECRET=916c32109ef256603cd961e42f8a9f2a
-BETTER_AUTH_URL= #Base URL of your app
-DATABASE_URL= postgresql://neondb_owner:npg_PZzORQD0In5Y@ep-wispy-shadow-a52zci3z-pooler.us-east-2.aws.neon.tech/neondb?sslmode=require
-GITHUB_CLIENT_SECRET= # GITHUB CLIENT SECRET
-GITHUB_CLIENT_ID= # GITHUB CLIENT ID
-GOOGLE_CLIENT_ID= # GOOGLE CLIENT ID
-GOOGLE_CLIENT_SECRET= # GOOGLE CLIENT SECRET
-RESEND_API_KEY= # RESEND API KEY
+
